@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "hub": "^6.1.2",
-    "react": "^16.9.0",
-    "react-dom": "^16.9.0",
+    "hub": "^5.1.2",
+    "react": "^15.9.0",
+    "react-dom": "^15.9.0",
     "react-scripts": "3.0.0"
   },
   "scripts": {
